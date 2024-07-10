@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjo Kundu</h1>
-<h3 align="center">A 4th year CSE student from NIT Durgapur, who likes to travel and explore different cultures.</h3>
+<h3 align="center">A 4th year CSE student from NIT Durgapur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjo31&label=Profile%20views&color=0e75b6&style=flat" alt="arjo31" /> </p>
 
